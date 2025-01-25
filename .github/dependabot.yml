@@ -1,6 +1,6 @@
 version: 2
 updates:
-  '#/updates/0':
+(<unknown>):'#/updates/0':
     package-ecosystem: "github-actions"
    : "/"
     schedule:
