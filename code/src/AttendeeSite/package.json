@@ -1,6 +1,6 @@
 {
   "name": "azure_provision",
-  "version": "1.0.0",The snippet you provided is a part of a `package.json` file for a Node.js project. Here are a few observations and suggestions for improvement:
+  "version": "8",The snippet you provided is a part of a `package.json` file for a Node.js project. Here are a few observations and suggestions for improvement:
 
 ### 1. JSON Syntax Issue
 **Observation:**
