@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
+  - packageecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "monthly"
