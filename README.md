@@ -1,4 +1,4 @@
-<header>1-dependency-graph.yml:57 on branch
+<header> 1-dependency-graph.yml:57 on branch
 
 <!--
   <<< Author notes: Course header >>>
